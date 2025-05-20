@@ -9,9 +9,9 @@ function App() {
     <>
       <div>
         <Navbar/>
-        <HeroTop></HeroTop>
-        <HeroButtom></HeroButtom>
-        <ButtomBody></ButtomBody>
+        <HeroTop/>
+        <HeroButtom/>
+        <ButtomBody/>
       </div> 
     </>
   );
